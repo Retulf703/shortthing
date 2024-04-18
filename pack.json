@@ -1,0 +1,10 @@
+{
+  "name": "Persona 3 Reload - Color Your Night",
+  "description": "Plays in Persona 3 Reload at night. The music is made by the Atlus sound team and Lotus Juice!",
+  "author": "Retulf703",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
